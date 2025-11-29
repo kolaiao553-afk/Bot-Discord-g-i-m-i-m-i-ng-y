@@ -7,7 +7,7 @@ FILE_DATA = "tuvung.txt"
 
 # Tên Bot và Ảnh đại diện Bot (Bạn thay link ảnh logo của bạn vào đây)
 BOT_NAME = "Tiếng Trung Hoa Thư"
-BOT_AVATAR = "https://cdn-icons-png.flaticon.com/512/330/330459.png" 
+BOT_AVATAR = "https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true" 
 # ----------------
 
 def gui_tin_nhan_dep(data_list):
@@ -113,3 +113,4 @@ if dong_dau_tien:
         print("💾 Đã cập nhật file từ vựng.")
 
 print("--- Hoàn thành ---")
+
