@@ -2,9 +2,9 @@ name: Chay Bot Discord Hang Ngay
 
 on:
   # Lịch chạy tự động (Sử dụng giờ UTC quốc tế)
-  # 00:30 UTC tương đương 07:30 sáng Việt Nam (GMT+7)
+  # 02:30 UTC tương đương 09:30 sáng Việt Nam (GMT+7)
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '30 2 * * *'
   
   # Cho phép bấm nút chạy thủ công để test
   workflow_dispatch:
