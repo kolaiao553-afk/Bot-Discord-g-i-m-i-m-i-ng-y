@@ -1,4 +1,3 @@
-菜 | cài | món ăn, rau củ | 我喜欢吃菜。 | Wǒ xǐhuān chī cài. | Tôi thích ăn rau. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 茶 | chá | trà | 我喝茶。 | Wǒ hē chá. | Tôi uống trà. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 吃 | chī | ăn | 我吃苹果。 | Wǒ chī píngguǒ. | Tôi ăn táo. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 出租车 | chūzūchē | taxi | 我坐出租车。 | Wǒ zuò chūzūchē. | Tôi đi taxi. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
