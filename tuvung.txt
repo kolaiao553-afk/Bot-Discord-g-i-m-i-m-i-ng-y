@@ -1,4 +1,3 @@
-吗 | ma | không (dùng trong câu hỏi) | 你好吗？ | Nǐ hǎo ma? | Bạn khỏe không? | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 买 | mǎi | mua | 我买了水果。 | Wǒ mǎile shuǐguǒ. | Tôi đã mua trái cây. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 猫 | māo | mèo | 这只猫很可爱。 | Zhè zhī māo hěn kě'ài. | Con mèo này rất dễ thương. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 没 | méi | không có, chưa | 我没看见他。 | Wǒ méi kànjiàn tā. | Tôi không nhìn thấy anh ấy. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
