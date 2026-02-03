@@ -1,4 +1,3 @@
-能 | néng | có thể | 他能说三种语言。 | Tā néng shuō sān zhǒng yǔyán. | Anh ấy có thể nói ba ngôn ngữ. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 你 | nǐ | bạn | 你叫什么名字？         | Nǐ jiào shénme míngzi? | Bạn tên là gì? | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 年 | nián | năm | 我结婚三年了。 | Wǒ jiéhūn sān nián le. | Tôi kết hôn 3 năm rồi. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 女儿 | nǚ'ér | con gái | 她是我的女儿。        | Tā shì wǒ de nǚ'ér.         | Con bé là con gái của tôi. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
