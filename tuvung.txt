@@ -1,4 +1,3 @@
-人 | rén | người | 这个人很友好。 | Zhè ge rén hěn yǒuhǎo. | Người này rất thân thiện. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 认识 | rènshi | quen biết | 我认识他。 | Wǒ rènshi tā. | Tôi quen anh ấy. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 日 | rì | ngày | 今天是几月几日？ | Jīntiān shì jǐ yuè jǐ rì? | Hôm nay là ngày mấy tháng mấy? | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 三 | sān | ba | 我有三本书。 | Wǒ yǒu sān běn shū. | Tôi có ba cuốn sách. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
