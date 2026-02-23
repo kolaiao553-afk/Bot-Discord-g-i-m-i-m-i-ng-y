@@ -1,4 +1,3 @@
-少 | shǎo | ít | 我们还少一个人。 | Wǒmen hái shǎo yīgè rén. | Chúng tôi vẫn thiếu một người. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 谁 | shuí/ shéi  | ai | 谁是你的老师？ | Shéi shì nǐ de lǎoshī? | Ai là giáo viên của bạn? | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 什么 | shénme | cái gì | 你想吃什么？ | Nǐ xiǎng chī shénme? | Bạn muốn ăn gì? | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 十 | shí | mười | 我有十块钱。 | Wǒ yǒu shí kuài qián. | Tôi có mười tệ. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
