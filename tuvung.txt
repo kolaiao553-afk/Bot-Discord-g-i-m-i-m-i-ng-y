@@ -1,4 +1,3 @@
-岁 | suì | tuổi | 我今年二十五岁。 | Wǒ jīnnián èrshíwǔ suì. | Tôi năm nay hai mươi lăm tuổi. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 他 | tā | anh ấy, ông ấy | 他是我的朋友。 | Tā shì wǒ de péngyou. | Anh ấy là bạn của tôi. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 她 | tā | cô ấy, bà ấy | 她在家里。 | Tā zài jiālǐ. | Cô ấy ở nhà. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 太 | tài | quá | 今天太热了。 | Jīntiān tài rè le. | Hôm nay nóng quá. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
