@@ -1,4 +1,3 @@
-医院 | yīyuàn | bệnh viện | 我们去医院看病。 | Wǒmen qù yīyuàn kàn bìng. | Chúng tôi đến bệnh viện để khám bệnh. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 椅子 | yǐzi | ghế | 请坐在椅子上。 | Qǐng zuò zài yǐzi shàng. | Xin ngồi lên ghế. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 月 | yuè | tháng, mặt trăng | 这个月我很忙。 | Zhège yuè wǒ hěn máng. | Tháng này tôi rất bận. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
 在 | zài | ở, tại | 他在学校学习。 | Tā zài xuéxiào xuéxí. | Anh ấy học ở trường. | https://github.com/kolaiao553-afk/Bot-Discord-g-i-m-i-m-i-ng-y/blob/951a13a35d0309c0796704a431135abf039df4c0/953892684333629146.jpg?raw=true
